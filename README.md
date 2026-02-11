@@ -7,7 +7,7 @@ This repository demonstrates a simple Python Azure Functions application with au
 - **HTTP Trigger Function**: A simple HTTP-triggered Azure Function that responds to GET and POST requests
 - **GitHub Actions CI**: Automated testing and validation on pull requests and pushes
 - **GitHub Actions CD**: Automated deployment to Azure Functions
-- **Testing**: Unit tests using pytest with coverage reporting
+- **Testing**: Unit tests using unittest with coverage reporting via pytest
 
 ## Project Structure
 
